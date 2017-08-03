@@ -1,0 +1,34 @@
+[
+{
+  "name":"Hayley",
+  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAlLAAAAJDg5NmFhYjlhLTA2ZjItNGExZi05YjkyLWE3NTEyZWNhZTQ1Yw.jpg",
+  "scores":[
+      5,
+      1,
+      4,
+      4,
+      5,
+      1,
+      2,
+      5,
+      4,
+      1
+    ]
+}
+{
+  "name":"Mike",
+  "photo":"https://avatars1.githubusercontent.com/u/16672952?v=4&s=400",
+  "scores":[
+      2,
+      5,
+      3,
+      5,
+      5,
+      2,
+      2,
+      5,
+      4,
+      1
+    ]
+}
+]
