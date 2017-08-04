@@ -1,4 +1,4 @@
-[
+var friendsData = [
 {
   "name":"Hayley",
   "photo":"https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAlLAAAAJDg5NmFhYjlhLTA2ZjItNGExZi05YjkyLWE3NTEyZWNhZTQ1Yw.jpg",
@@ -14,7 +14,7 @@
       4,
       1
     ]
-}
+},
 {
   "name":"Mike",
   "photo":"https://avatars1.githubusercontent.com/u/16672952?v=4&s=400",
@@ -31,4 +31,5 @@
       1
     ]
 }
-]
+];
+module.exports = friendsData;

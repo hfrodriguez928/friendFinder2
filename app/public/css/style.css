@@ -25,3 +25,7 @@
 	padding:50px;
 	width: 50%;
 }
+
+.modal-trigger {
+    visibility: hidden;
+}
