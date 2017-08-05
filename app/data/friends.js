@@ -30,6 +30,54 @@ var friendsData = [
       4,
       1
     ]
-}
+},
+  {
+  "name":"Tony Stark",
+  "photo":"http://www.pngall.com/wp-content/uploads/2016/05/Iron-Man.png",
+  "scores":[
+      1,
+      5,
+      3,
+      5,
+      3,
+      4,
+      5,
+      5,
+      1,
+      1
+    ]
+},
+   {
+  "name":"Cinderella",
+  "photo":"https://vignette4.wikia.nocookie.net/disney/images/b/b4/Cinderella_15.png/revision/latest?cb=20140127062417",
+  "scores":[
+      1,
+      2,
+      3,
+      1,
+      2,
+      3,
+      2,
+      1,
+      1,
+      1
+    ]
+},
+   {
+  "name":"Spongebob",
+  "photo":"https://vignette4.wikia.nocookie.net/nickelodeon/images/4/47/Spongebob.png/revision/latest?cb=20170402020121",
+  "scores":[
+      3,
+      4,
+      3,
+      4,
+      3,
+      4,
+      3,
+      4,
+      3,
+      3
+    ]
+},
 ];
 module.exports = friendsData;
